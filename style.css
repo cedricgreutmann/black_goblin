@@ -20,8 +20,8 @@ nav ul a:hover
   background-color: rgba(0, 0, 0, 0.2);red;
 }
 
-.paralax-container
+.parallax-container
 {
   -webkit-clip-path: polygon(100% 0, 100% 89%, 0 100%, 0 0);
-clip-path: polygon(100% 0, 100% 89%, 0 100%, 0 0);  
+clip-path: polygon(100% 0, 100% 89%, 0 100%, 0 0);
 }
